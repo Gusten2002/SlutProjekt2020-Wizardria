@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 74050cbd4af1f6b41a18ae8cfaed35ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2976796191269795504
+    second: FireHound_0
+  - first:
+      213: -6875194938909936278
+    second: FireHound_1
+  - first:
+      213: -3974915767245854125
+    second: FireHound_2
+  - first:
+      213: 8420662907134350418
+    second: FireHound_6
+  - first:
+      213: -3396927686234285755
+    second: FireHound_5
+  - first:
+      213: -1054936650684290518
+    second: FireHound_7
+  - first:
+      213: -7108103909842994348
+    second: FireHound_8
+  - first:
+      213: -8766564630314596144
+    second: FireHound_20
+  - first:
+      213: -448455345992160342
+    second: FireHound_21
+  - first:
+      213: 1699783058455143337
+    second: FireHound_22
+  - first:
+      213: -8603308277907408317
+    second: FireHound_23
+  - first:
+      213: -5144495637670887139
+    second: FireHound_30
+  - first:
+      213: -3126310509511131308
+    second: FireHound_31
+  - first:
+      213: -7175011799492503129
+    second: FireHound_32
+  - first:
+      213: -7257526372144805455
+    second: FireHound_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireHound_0
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 802
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.50000405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8a71de5a88d2e4f91770c49e9deb51
+      internalID: 2976796191269795504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 805
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d456ea1f126f4aa09eef9dcfd4270
+      internalID: -6875194938909936278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 804
+        width: 45
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.500002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eba0eca57507df4788f402ca9a17dcd
+      internalID: -3974915767245854125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 630
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824fe2e9293a9e542991eb7c2cd5ba70
+      internalID: -3396927686234285755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 633
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f191bbc52f7044f8f825af582821ad
+      internalID: 8420662907134350418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 633
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0752390dedb9426479c592428fbe6d86
+      internalID: -1054936650684290518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_8
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 635
+        width: 200
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb1d8e64a592146978f35067082989
+      internalID: -7108103909842994348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 445
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f79aa7148aa5c148b3f2a8b64295e89
+      internalID: -8766564630314596144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 408
+        width: 131
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b081c560c7709e144bde823623730aa7
+      internalID: -448455345992160342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 371
+        width: 242
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb3c40d507a5c947ab376de933a4e72
+      internalID: 1699783058455143337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 356
+        width: 220
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65225c279af89f418bac1d9c007bbcd
+      internalID: -8603308277907408317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 138
+        width: 233
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77185c912489b7145b12a724f73059c5
+      internalID: -5144495637670887139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_31
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 152
+        width: 212
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c039a7e0e8384cd46ba8fafd79ce3310
+      internalID: -3126310509511131308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_32
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 170
+        width: 149
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3834a69f6ae35c44a2dcf988e010596
+      internalID: -7175011799492503129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireHound_33
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 194
+        width: 95
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96296c8cc0fb6fc409ab6c57a8bfeb93
+      internalID: -7257526372144805455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
