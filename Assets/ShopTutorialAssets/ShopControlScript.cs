@@ -29,10 +29,10 @@ public class ShopControlScript : MonoBehaviour {
 		if (moneyAmount >= 5 && isRifleSold == 0)
 			buyButton.interactable = true;
 		else
-			buyButton.interactable = false;	
+			buyButton.interactable = false;
 	}
 
-	public void buyRifle()
+	public void BuyRifle()
 	{
 		moneyAmount -= 5;
 		PlayerPrefs.SetInt ("IsRifleSold", 1);
@@ -40,13 +40,13 @@ public class ShopControlScript : MonoBehaviour {
 		buyButton.gameObject.SetActive (false);
 	}
 
-	public void exitShop()
+	public void ExitShop()
 	{
 		PlayerPrefs.SetInt ("MoneyAmount", moneyAmount);
-		SceneManager.LoadScene ("GameScene");
+		SceneManager.LoadScene (1);
 	}
 
-	public void resetPlayerPrefs()
+	public void ResetPlayerPrefs()
 	{
 		moneyAmount = 0;
 		buyButton.gameObject.SetActive (true);

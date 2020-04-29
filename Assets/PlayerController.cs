@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 4;//Skapar ett tal som kan ändras i Unity.
+    public float speed = 4;//Skapar ett tal (speed) som kan ändras i Unity.
     public GameObject bolt;
 
     // Start is called before the first frame update

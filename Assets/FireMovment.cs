@@ -12,7 +12,7 @@ public class FireMovment : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {   
         Vector3 Shoty = Vector3.left * 5 * Time.deltaTime;
         transform.Translate(Shoty);
 

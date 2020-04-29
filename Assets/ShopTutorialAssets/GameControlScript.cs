@@ -27,9 +27,9 @@ public class GameControlScript : MonoBehaviour {
 		moneyText.text = "Money: " + moneyAmount.ToString() + "$";
 	}
 
-	public void gotoShop()
+	public void GotoShop()
 	{
 		PlayerPrefs.SetInt ("MoneyAmount", moneyAmount);
-		SceneManager.LoadScene ("ShopScene");
+		SceneManager.LoadScene (2);
 	}
 }

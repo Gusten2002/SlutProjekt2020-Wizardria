@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Shop : MonoBehaviour
 {
@@ -18,10 +19,10 @@ public class Shop : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Player" && Input.GetKeyDown(KeyCode.E))
+        /*if (collision.tag == "Player" && Input.GetKeyDown(KeyCode.E))
         {
-            //SceneManager.LoadScene(3);
-        }
+            SceneManager.LoadScene(2);
+        }*/
 
     }
 }

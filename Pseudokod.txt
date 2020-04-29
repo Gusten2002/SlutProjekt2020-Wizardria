@@ -1,0 +1,12 @@
+* Skapar ett tal (speed) som kan ändras i Unity.
+
+* Räknar ut hastigheten åt sidorna.
+
+* Räknar ut hastigheten upp när man hoppar.
+
+* Om X rörelsen är mer är 0 så ska int:en i animator ändras till 1, så att karaktären flippas.
+
+* Däremot om X rörelsen är mindre är 0 så ska int:en i animator ändras till -1,
+så den flippas tillbaka när man går tillbaka.
+
+* Annars så ska int:en i animator ändras till 0 (Idle).
